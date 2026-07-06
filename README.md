@@ -44,8 +44,6 @@ currently_learning:
 
 ---
 
-## 🚀 Tech Stack
-
 # 💻 Tech Stack
 
 <p>
@@ -123,6 +121,18 @@ currently_learning:
 ---
 
 # 📊 GitHub Statistics
+<div align="center">
+<table>
+<tr>
+<td>
+<img src="./profile/stats.svg" height="170" />
+</td>
+<td>
+<img src="./profile/top-langs.svg" height="170" />
+</td>
+</tr>
+</table>
+</div>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rose-Pryia&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
