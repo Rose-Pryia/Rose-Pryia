@@ -120,33 +120,11 @@ currently_learning:
 
 ---
 
-# 📊 GitHub Statistics
-<div align="center">
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Rose-Pryia&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rose-Pryia&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</td>
-</tr>
-</table>
-</div>
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rose-Pryia&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rose-Pryia&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="./github-metrics.svg" width="95%">
 </p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Rose-Pryia&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 # 📈 Contribution Graph
