@@ -120,11 +120,17 @@ currently_learning:
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="./github-metrics.svg" width="95%">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rose-Pryia&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rose-Pryia&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Rose-Pryia&theme=tokyonight&hide_border=true"/>
+</p>
+
 ---
 
 # 📈 Contribution Graph
