@@ -125,10 +125,10 @@ currently_learning:
 <table>
 <tr>
 <td>
-<img src="./profile/stats.svg" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rose-Pryia&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 </td>
 <td>
-<img src="./profile/top-langs.svg" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rose-Pryia&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </td>
 </tr>
 </table>
